@@ -1,0 +1,31 @@
+
+
+  #TODO: Step 1 - Add the rFlutter Alert package as a dependency here and use "Packages get".
+
+
+
+name: quizzler
+description: A new Flutter project.
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.12.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^0.1.2
+  rflutter_alert: ^2.0.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
+
+analyzer:
+  enable-experiment:
+    - non-nullable
