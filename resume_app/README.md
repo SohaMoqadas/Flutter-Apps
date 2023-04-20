@@ -1,16 +1,3 @@
 # resume_app
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img width="953" alt="resume" src="https://user-images.githubusercontent.com/126806352/233258732-4dd2a719-4e9c-40d3-b497-a0afcf9fadc3.png">
+<img width="932" alt="half" src="https://user-images.githubusercontent.com/126806352/233258770-d83b0df0-9465-4b93-a886-c259625c10a2.png">
